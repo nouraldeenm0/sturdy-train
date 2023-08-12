@@ -1,4 +1,4 @@
-import CalculatorGUI;
+import gui.CalculatorGUI;
 
 public class Main {
     public static void main(String[] args) {
