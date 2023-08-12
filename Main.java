@@ -1,5 +1,8 @@
+import CalculatorGUI;
+
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world");
+        CalculatorGUI calculator = new CalculatorGUI();
+        calculator.setVisible(true);
     }
 }
